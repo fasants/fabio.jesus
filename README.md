@@ -1,6 +1,12 @@
 # Bem vindo (a) ao meu perfil
 
-Olá, eu sou o Fábio Jesus
+Olá, eu sou o Fábio Jesus, sou o aluno do curso staart
+
+![9gjzpejrjex21](https://user-images.githubusercontent.com/74939020/178274606-7f04c7d1-32e8-48f3-a640-5c4c42930918.jpg)
+
+Moro em São Paulo-SP ❄️
+
+
 
 ## Meus hobbies
 
@@ -18,6 +24,6 @@ Olá, eu sou o Fábio Jesus
 
 ## Meus contatos
 
-- Instagram @ofabiojesus
 - GitHub @fasants
 - E-mail fabio.santos.jesus@icloud.com
+
