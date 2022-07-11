@@ -26,4 +26,5 @@ Moro em São Paulo-SP ❄️
 
 - GitHub @fasants
 - E-mail fabio.santos.jesus@icloud.com
+- LinkedIn Fábio Jesus
 
